@@ -1,5 +1,5 @@
 # GoBridge Website
 
-This is the branch that contains the statically generated files for GoBridge's [Hugo powered](https://gohugo.io) website.
+This master branch is the branch that contains the statically generated files for GoBridge's [Hugo powered](https://gohugo.io) website. **Please do not check in code into this branch**: it will be overwritten.
 
-We welcome contributions. Please see [the instructions](https://github.com/gobridge/gobridge.github.io/blob/source/CONTRIBUTING.md).
+Please see [the CONTRIBUTING guidelines](https://github.com/gobridge/gobridge.github.io/blob/source/CONTRIBUTING.md) for how to add changes.
